@@ -5,14 +5,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=snlDIU.snlDIU&style=flat-square&color=0088cc)
 
-I am a Computer Science and Engineering graduate from Daffodil International University, Bangladesh, class of 2018. 🎓 After a transformative period in my journey, I am returning to coding, bringing a renewed passion and commitment to making impactful contributions in the evolving landscape of Machine Learning and Data Science. 🚀 I am excited about the journey ahead, ready to embrace new challenges and leverage my past experiences. 😊
+I am a Computer Science and Engineering graduate from Daffodil International University, Bangladesh, class of 2018. 🎓 After a transformative period in my journey, I am returning to coding, bringing a renewed passion and commitment to making impactful contributions in the evolving landscape of Data. 🚀 I am excited about the journey ahead, ready to embrace new challenges and leverage my past experiences. 😊
 
 I seek beginner-level opportunities to apply my skills and contribute to meaningful projects. 💻 I believe in the power of continuous learning and thrive on challenges that push me to grow. 🌱 
 
 Let's connect and explore the exciting possibilities in the world of technology together! 🌐
 
-
-<img align="right" height="250" width="446"  alt="" src="https://25.media.tumblr.com/e87a99f7522d10a2f2932a4b744dcb43/tumblr_mj9csx817m1qg2ypco1_500.gif" />
 
 ### Talking about Personal Stuff:
 - 🛠 &nbsp; I am working on improving my problem-solving skills 🤓.
